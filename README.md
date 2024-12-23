@@ -1,1 +1,2 @@
-﻿# GB_GitHublearn_FamilyAlbum - пытаюсь создать сайт с альбомом фотографий семьи
+﻿# GB_GitHublearn_FamilyAlbum
+Пытаюсь создать сайт с альбомом фотографий семьи
